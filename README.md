@@ -11,7 +11,7 @@ For NY Properties Sales and Titanic datasets, click below
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fgreguy-cloud%2FExplore-Bamboolib/master)
 
 
-## Want to Access my Binder? Click below:
+## Another way to Access my Binder, click below:
 
 [MyBinder](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fgreguy-cloud%2FExplore-Bamboolib/master)
 
