@@ -14,4 +14,4 @@ For NY Properties Sales and Titanic datasets, click below
 
 ### How to use bamboolib on any other Open Data?
 
-If you want to use bamboolib on any other Open Data, simply follow [our quick guide](https://github.com/8080labs/bamboolib_binder_template/blob/master/create_your_own_binder.md)
+If you want to use bamboolib on any other Open Data, simply follow [the quick guide](https://github.com/greguy-cloud/Explore-Bamboolib/blob/master/create_your_own_binder.md)
